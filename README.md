@@ -51,8 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raphacosil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-![Rapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphacosil&show_icons=true&theme=tokyonight)
-
 ###
 
 <img src="https://raw.githubusercontent.com/raphacosil/raphacosil/output/snake.svg" alt="Snake animation" />
