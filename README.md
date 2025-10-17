@@ -6,10 +6,10 @@
 <h2>Skills and Interests</h2>
 
 <ul>
-  <li><strong>Mobile Development:</strong> Native Android applications using Kotlin</li>
-  <li><strong>Backend Development:</strong> RESTful APIs and backend microservices using Spring Boot and Golang</li>
-  <li><strong>Databases:</strong> SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Neo4j)</li>
-  <li><strong>Data Analysis:</strong> Basic understanding and experience</li>
+  <li><strong>Mobile Development:</strong> Native Android applications using Kotlin;</li>
+  <li><strong>Backend Development:</strong> RESTful APIs and backend microservices using Spring Boot and Golang;</li>
+  <li><strong>Databases:</strong> SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Neo4j);</li>
+  <li><strong>Data Analysis:</strong> Basic understanding and experience.</li>
 </ul>
 
 ###
