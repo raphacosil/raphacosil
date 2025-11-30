@@ -1,16 +1,67 @@
-## Hi there 👋
+<h2>About Me</h2>
 
-<!--
-**raphacosil/raphacosil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I am a <strong>software developer</strong> focused on <strong>native mobile development</strong> and <strong>backend</strong> systems.<br>
+  My main experience is building solutions for these two areas.
+</p>
 
-Here are some ideas to get you started:
+<h2>Skills and Interests</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; align-items: flex-start; gap: 24px;">
+
+  <ul style="margin: 0;">
+    <li><strong>Mobile Development:</strong> Native Android applications using Kotlin;</li>
+    <li><strong>Backend Development:</strong> RESTful APIs and backend services using Spring Boot and Golang;</li>
+    <li><strong>Architecture and Software Design:</strong> Using design and architecture patterns to build and understand software;</li>
+    <li><strong>Databases:</strong> SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Neo4j);</li>
+    <li><strong>Data Analysis:</strong> Basic understanding and experience.</li>
+  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/android_logo_2023-freelogovectors.net_.png" height="40" alt="android logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
+  <img width="12"/>
+
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F6%2FPHP-Elephant-Logo-PNG-Photo.png&f=1&nofb=1&ipt=75bef41f2a2f8c8933b8e1db1c81463f893a330159a40e3eee86908d6acd6af7.svg" height="40" alt="go logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  </div>
+
+</div>
